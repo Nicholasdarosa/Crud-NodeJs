@@ -1,0 +1,13 @@
+http://localhost:3003/connectionTest
+
+###
+
+GET http://localhost:3003/post
+
+Content-Type: application/json
+
+###
+
+PUT  http://localhost:3003/updateUser?id=2
+
+Content-Type: application/json
